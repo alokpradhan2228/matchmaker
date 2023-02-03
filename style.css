@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://w0.peakpx.com/wallpaper/280/686/HD-wallpaper-love-2d-background-couple-love-love.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.match {
+    display: flex;
+    justify-content: center;
+}
+
+.container1 {
+    height: 30vh;
+    width: 30vh;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxu6c3-I-CQ46sNz-TDPaQ_TpzoW-e3uk5kA&usqp=CAU');
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 5.5px solid rgb(250, 5, 5);
+    margin-top: 50px;
+
+}
+
+.container2 {
+    height: 30vh;
+    width: 30vh;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVJHefcEwDXrK8MsNqHra_bUbj19_B85xZKg&usqp=CAU');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 5.5px solid rgb(250, 5, 5);
+    margin-top: 50px;
+}
+
+#b {
+    margin-left: 12vh;
+    color: hotpink;
+}
+
+input[type] {
+    width: 80%;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+h1 {
+    margin-top: 5%;
+    font-size: 10vh;
+}
+
+#btn {
+    width: 5vw;
+    height: 5vh;
+    border-radius: 5px;
+    margin-left: 47.5%;
+}
+
+.output {
+    font-style: italic;
+    text-transform: uppercase;
+    margin-left: 25px;
+    color: rgba(56, 6, 255, 0.886);
+    margin-left: 47.5%;
+}
